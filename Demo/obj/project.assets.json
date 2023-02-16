@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Rahul.Prajapati\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\MitThakkar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\POC\\Demo\\Demo\\Demo.csproj",
+      "projectUniqueName": "C:\\Users\\MitThakkar\\Demo\\DemoApplication\\Demo\\Demo.csproj",
       "projectName": "Demo",
-      "projectPath": "E:\\POC\\Demo\\Demo\\Demo.csproj",
-      "packagesPath": "C:\\Users\\Rahul.Prajapati\\.nuget\\packages\\",
-      "outputPath": "E:\\POC\\Demo\\Demo\\obj\\",
+      "projectPath": "C:\\Users\\MitThakkar\\Demo\\DemoApplication\\Demo\\Demo.csproj",
+      "packagesPath": "C:\\Users\\MitThakkar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MitThakkar\\Demo\\DemoApplication\\Demo\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Rahul.Prajapati\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\MitThakkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
