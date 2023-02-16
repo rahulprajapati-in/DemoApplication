@@ -1,0 +1,7 @@
+E:\POC\Demo\Demo\obj\Release\net6.0\PubTmp\Out\Demo.exe
+E:\POC\Demo\Demo\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\POC\Demo\Demo\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\POC\Demo\Demo\obj\Release\net6.0\PubTmp\Out\Demo.dll
+E:\POC\Demo\Demo\obj\Release\net6.0\PubTmp\Out\Demo.deps.json
+E:\POC\Demo\Demo\obj\Release\net6.0\PubTmp\Out\Demo.runtimeconfig.json
+E:\POC\Demo\Demo\obj\Release\net6.0\PubTmp\Out\Demo.pdb

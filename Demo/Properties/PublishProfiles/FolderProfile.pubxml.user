@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\DemoWebApp</_PublishTargetUrl>
+    <History>False|2023-02-14T09:54:29.5809970Z;False|2023-02-14T15:24:01.3111581+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
